@@ -32,7 +32,7 @@ If you would like to contribute to this project, you can do so by creating a [PR
 ## Socials
 
 - __Ananya Biswas(Me)__
-    - Portfolio : dub.sh/ananyabiswas
+    - Portfolio : https://dub.sh/ananyabiswas
     - LinkedIn : https://linkedin.com/in/ananya-biswas-kiit/
     - Mastodoon : https://mastodon.social/@captain_obvious/
     - Twitter : https://x.com/not_average_x/
