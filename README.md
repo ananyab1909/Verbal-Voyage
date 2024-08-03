@@ -11,10 +11,11 @@ A fast and simple translation tool developed using MERN
 
 ## Getting Started
 1. `$ git clone https://github.com/ananyab1909/VerbalVoyage.git` - clone this project to your computer
-2. `$ cd VerbalVoyage` - go inside the project directory
-3. `node app.js` to run the backend server.    
-4. `npm run` to execute the react frontend.
-5. Translate and enjoy your journey.
+2. `$ cd VerbalVoyage` - go inside the project directory.
+3. `npm install -r requirement.txt` to install dependencies.
+4. `node app.js` to run the backend server.    
+5. `npm run` to execute the react frontend.
+6. Translate and enjoy your journey.
 
 ## Requirements
 - MongoDB must be installed on device.
