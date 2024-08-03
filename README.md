@@ -4,7 +4,7 @@ A fast and simple translation tool developed using MERN
 
 ## Highlights
 1. A simple and responsive react frontend.
-2. Translation scraped from Google Translate using Selenium through ExpressJS.
+2. Translations scraped from Google Translate using Selenium through ExpressJS.
 3. Stores all the interactions through mongoose using a MongoDB model.
 4. No use of Google Cloud Translate API, so it's completely free. 
 
