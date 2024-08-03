@@ -6,7 +6,8 @@ A fast and simple translation tool developed using MERN
 1. A simple and responsive react frontend.
 2. Translations scraped from Google Translate using Selenium through ExpressJS.
 3. Stores all the interactions through mongoose using a MongoDB model.
-4. No use of Google Cloud Translate API, so it's completely free. 
+4. No use of Google Cloud Translate API, so it's completely free.
+5. Supports ninety-one languages.
 
 ## Getting Started
 1. `$ git clone https://github.com/ananyab1909/VerbalVoyage.git` - clone this project to your computer
