@@ -10,8 +10,8 @@ A fast and simple translation tool developed using MERN
 5. Supports ninety-one languages.
 
 ## Getting Started
-1. `$ git clone https://github.com/ananyab1909/VerbalVoyage.git` - clone this project to your computer
-2. `$ cd VerbalVoyage` - go inside the project directory.
+1. `$ git clone https://github.com/ananyab1909/Verbal-Voyage.git` - clone this project to your computer
+2. `$ cd Verbal-Voyage` - go inside the project directory.
 3. `npm install -r requirement.txt` to install dependencies.
 4. `node app.js` to run the backend server.    
 5. `npm run` to execute the react frontend.
